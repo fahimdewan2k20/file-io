@@ -1,0 +1,1 @@
+[{"firstname":"Fahim","lastname":"Uddin","gender":"male","date of birth":"1998-01-27","religion":"Islam","present address":"Dhaka","permanent address":"Khulna","telephone":"01521109518","email":"fahimdewan2k18@gmail.com","weblink":"https:\/\/www.unipharmanar.com","username":"fahim","password":"123"}]
